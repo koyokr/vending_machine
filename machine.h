@@ -7,8 +7,7 @@ namespace Ui {
 class machine;
 }
 
-class machine : public QWidget
-{
+class machine : public QWidget {
     Q_OBJECT
 
 public:
